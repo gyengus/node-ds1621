@@ -1,5 +1,4 @@
 # node-ds1621
-=============
 
 Node.js module for DS1621 temperature sensor
 Tested on Raspberry Pi B+
