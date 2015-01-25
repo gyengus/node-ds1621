@@ -1,0 +1,26 @@
+{
+  "name": "ds1621",
+  "version": "1.0.0",
+  "description": "Node module for communication with temperature sensor DS1621",
+  "main": "ds1621.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gyengus/node-ds1621.git"
+  },
+  "keywords": [
+    "ds1621",
+    "temperature"
+  ],
+  "author": "Gabor Gyenge <gyengus@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gyengus/node-ds1621/issues"
+  },
+  "homepage": "https://github.com/gyengus/node-ds1621",
+  "dependencies": {
+    "i2c": "^0.1.6"
+  }
+}
