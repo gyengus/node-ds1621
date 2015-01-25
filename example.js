@@ -3,6 +3,6 @@ var ds1621 = require('./ds1621.js'),
 
 //sensor.getTemp(function(temperature) {
 sensor.getHighPrecTemp(function(temperature) {
-	console.log('Temp: ' + temperature + '°C');
+	console.log('Temperature: ' + temperature + '°C');
 	process.exit();
 });
