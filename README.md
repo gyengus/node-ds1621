@@ -1,17 +1,20 @@
 # node-ds1621
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
+[![NPM version](https://img.shields.io/npm/v/jade.svg?style=flat)](http://npmjs.com/package/ds1621)
 
 Node.js module for DS1621 temperature sensor
 
 Tested on Raspberry Pi B+
 
 ## Installation
-<pre>
+
+```bash
 $ npm install ds1621
-</pre>
-## Usage
 ```
+
+## Usage
+
+```javascript
 var ds1621 = require('ds1621.js'),
 	sensor = new ds1621({device:'/dev/i2c-1'});
 
@@ -20,8 +23,11 @@ sensor.getHighPrecTemp(function(temperature) {
 	process.exit();
 });
 ```
+
 Run, the example:
+
 ```bash
 $ sudo node example.js
 ```
+
 Please note: You must run this in root account.
