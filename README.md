@@ -1,6 +1,6 @@
 # node-ds1621
 
-[![NPM version](https://img.shields.io/npm/v/jade.svg?style=flat)](http://npmjs.com/package/ds1621)
+[![NPM version](https://img.shields.io/npm/v/ds1621.svg?style=flat)](http://npmjs.com/package/ds1621)
 
 Node.js module for DS1621 temperature sensor
 
