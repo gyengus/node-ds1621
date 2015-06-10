@@ -31,3 +31,10 @@ $ sudo node example.js
 ```
 
 Please note: You must run this in root account.
+
+## Testing
+
+Install mocha, then type
+```bash
+$ sudo mocha
+```
