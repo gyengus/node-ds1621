@@ -38,3 +38,8 @@ Install mocha, then type
 ```bash
 $ sudo mocha
 ```
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/gyengus/node-ds1621/badge.svg?style=beer-square)](https://beerpay.io/gyengus/node-ds1621)  [![Beerpay](https://beerpay.io/gyengus/node-ds1621/make-wish.svg?style=flat-square)](https://beerpay.io/gyengus/node-ds1621?focus=wish)
