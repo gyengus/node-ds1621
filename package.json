@@ -1,6 +1,6 @@
 {
   "name": "ds1621",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Node module for communication with temperature sensor DS1621",
   "main": "ds1621.js",
   "scripts": {
