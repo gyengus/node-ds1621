@@ -1,6 +1,6 @@
 # node-ds1621
 
-[![NPM version](https://img.shields.io/npm/v/ds1621.svg?style=flat)](http://npmjs.com/package/ds1621) [![Downloads](http://img.shields.io/npm/dm/ds1621.svg)](http://npmjs.com/package/ds1621) [![Support us](http://img.shields.io/gittip/gyengus.svg)](https://www.gittip.com/gyengus/)
+[![NPM version](https://img.shields.io/npm/v/ds1621.svg?style=flat)](http://npmjs.com/package/ds1621) [![Downloads](http://img.shields.io/npm/dm/ds1621.svg)](http://npmjs.com/package/ds1621) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K5PAV5V7WGWFL)
 
 Node.js module for DS1621 temperature sensor
 
@@ -39,7 +39,7 @@ Install mocha, then type
 $ sudo mocha
 ```
 
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/gyengus/node-ds1621/badge.svg?style=beer-square)](https://beerpay.io/gyengus/node-ds1621)  [![Beerpay](https://beerpay.io/gyengus/node-ds1621/make-wish.svg?style=flat-square)](https://beerpay.io/gyengus/node-ds1621?focus=wish)
+## Donations
+- PayPal: https://paypal.me/gyengus
+- Bitcoin: 1QJzLBK9uQP4RthmKJRQwy3v5sd4XS4S7P
+- Ethereum: 0x2bD68120A56acBf6Dbd11da2060228b8912C1e3C
